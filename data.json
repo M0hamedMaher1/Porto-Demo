@@ -1,0 +1,34 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "title": "product type fullwidth",
+            "price": "$101.00",
+            "image": "https://m2.portotheme.com/media/catalog/product/cache/11458dcde882ed1dfb2833d935bf9253/s/h/shop1_fullwidth_product_img_1.jpg"
+        },
+        {
+            "id": 2,
+            "title": "ultimate 3d bluetooth speeker",
+            "price": "%105.00",
+            "image": "https://m2.portotheme.com/media/catalog/product/cache/11458dcde882ed1dfb2833d935bf9253/p/r/product-59-1_1.jpeg"
+        },
+        {
+            "id": 3,
+            "title": "women casual bag spring",
+            "price": "%101.00",
+            "image": "https://m2.portotheme.com/media/catalog/product/cache/11458dcde882ed1dfb2833d935bf9253/p/r/product-23_2.jpeg"
+        },
+        {
+            "id": 4,
+            "title": "basketball sport blue shoes",
+            "price": "$101.00",
+            "image": "https://m2.portotheme.com/media/catalog/product/cache/11458dcde882ed1dfb2833d935bf9253/p/r/product-13_1.jpeg"
+        },
+        {
+            "id": 5,
+            "title": "blue backpack for young",
+            "price": "$101.00",
+            "image": "https://m2.portotheme.com/media/catalog/product/cache/11458dcde882ed1dfb2833d935bf9253/p/r/product-68.jpeg"
+        }
+    ]
+}
