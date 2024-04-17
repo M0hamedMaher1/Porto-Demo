@@ -734,7 +734,7 @@
     font-size: 50px;
     font-weight: 400;
     text-transform: capitalize;
-    font-family: 'Segoe Script', 'Savoye LET';
+    font-family: 'Segoe Script', 'Savoye LET' !important;
 }
 
 .hero-content h2{
